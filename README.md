@@ -1,1 +1,1 @@
-# Lab-05b-Git-Fork-vs-Branching-Rostyslav-Andres
+This project is to practice git forking and branching with pull requests.
